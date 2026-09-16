@@ -70,5 +70,5 @@ The `TestEndToEndPipeline` class (7 tests) exercises the real matcher against th
 | File | Purpose |
 |------|---------|
 | `tests/__init__.py` | Makes `tests/` a Python package |
-| `tests/test_reconciliation.py` | The 57-test regression suite |
+| `tests/test_reconciliation.py` | The 64-test regression suite |
 | `TESTING.md` | This file |
