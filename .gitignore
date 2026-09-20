@@ -24,3 +24,8 @@ env/
 Thumbs.db
 .freebuff/
 .freebuffpreview.log
+
+# Interview prep (keep local, never commit)
+INTERVIEW_PREP.md
+INTERVIEW_QA_BANK.md
+INTERVIEW_CHEATSHEET.md
