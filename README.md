@@ -1,4 +1,4 @@
-# Finance Controller — Razorpay AI Buildathon
+# Finance Controller — Razorpay AI 
 
 **Track:** AI Finance Controller
 
@@ -264,4 +264,4 @@ The full-dataset integration class runs the real matcher against the frozen CSVs
 
 ## License
 
-Built for the Razorpay AI Buildathon.
+Built for the Razorpay AI
